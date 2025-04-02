@@ -11,7 +11,7 @@
       "invokeTarget": {
         "target": "code",
         "lambdaHandler": "app.lambda_handler",
-        "projectRoot": "${workspaceFolder}/src"
+        "projectRoot": "${workspaceFolder}"
       },
       "lambda": {
         "runtime": "python3.11",
